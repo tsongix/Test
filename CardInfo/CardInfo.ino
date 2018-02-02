@@ -14,6 +14,7 @@
  		Pin 4 used here for consistency with other Arduino examples
 
 /// comment added to test commit on Github
+// same purpose than above
 
 
  created  28 Mar 2011
